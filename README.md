@@ -1,2 +1,11 @@
-I'm a shopify  developer and ecommerce expert who is passionate about e-commerce . I was selected for Google Summer of Code and currently working on an Election Dapp. I'm also doing my research internship as Mitacs GRI'22 at Lakehead University. I've previously worked as GitHub Extern. I've made various open source contributions such as in Google Summer of Code, GitHub Externship, Hacktoberfest, GirlScript Summer of Code, KWOC.
-I'm working as a Microsoft Learn Student Ambassador since 2021. I was among the top 12 selected in WIEHACK 3.0 hackathon. Hackathons, innovations, projects, webinars are my favorite kinds of work. 🌟
+🛍️ Shopify Developer | E-commerce Enthusiast | Problem Solver
+
+🚀 I'm a Shopify developer passionate about crafting seamless e-commerce experiences. With a knack for turning ideas into robust online stores, I thrive on creating user-friendly solutions.
+
+💼 Currently, I'm dedicated to building scalable Shopify stores and optimizing customer journeys. My expertise includes theme development, app integrations, and enhancing user interfaces for higher conversions.
+
+🔍 Always in pursuit of innovation, I actively explore new Shopify APIs and technologies, ensuring my solutions are at the forefront of e-commerce trends.
+
+🌟 Previous engagements include contributing to Shopify app development, optimizing store performance, and collaborating on projects during Shopify Hackathons.
+
+💡 Let's connect and leverage Shopify's potential to create engaging, high-performing online storefronts that captivate users and drive business success.
